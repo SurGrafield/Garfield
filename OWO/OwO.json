@@ -3,7 +3,7 @@
 	"Heo": {
 		"type": "image",
 		"container": [{
-				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/再见.png\">",
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/zaijian.png\">",
 				"data": ":#(heo-再见)",
 				"text": "heo-再见"
 			},
