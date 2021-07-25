@@ -426,6 +426,36 @@
 				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/菜狗花.png\">",
 				"data": ":#(菜狗花)",
 				"text": "菜狗花"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/深思.png\">",
+				"data": ":#(深思)",
+				"text": "深思"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/3d眼镜.png\">",
+				"data": ":#(3d眼镜)",
+				"text": "3d眼镜"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/电话.png\">",
+				"data": ":#(电话)",
+				"text": "电话"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/托腮.png\">",
+				"data": ":#(托腮)",
+				"text": "托腮"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/裂开.png\">",
+				"data": ":#(裂开)",
+				"text": "裂开"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/滑稽柠檬.png\">",
+				"data": ":#(滑稽柠檬)",
+				"text": "滑稽柠檬"
 			}
 		]
 	},
