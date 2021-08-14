@@ -465,152 +465,152 @@
 		"type": "image",
 		"container": [{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/走了.gif\">",
-				"data": ":%(走了)",
+				"data": ":#ffs(走了)",
 				"text": "走了"
 			},
 
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/爱你.gif\">",
-				"data": ":%(爱你)",
+				"data": ":#ffs(爱你)",
 				"text": "爱你"
 			},
 
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/拽.gif\">",
-				"data": ":%(拽)",
+				"data": ":#ffs(拽)",
 				"text": "拽"
 			},
 
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/冰激凌.gif\">",
-				"data": ":%(冰激凌)",
+				"data": ":#ffs(冰激凌)",
 				"text": "冰激凌"
 			},
 
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/不过如此.gif\">",
-				"data": ":%(不过如此)",
+				"data": ":#ffs(不过如此)",
 				"text": "不过如此"
 			},
 
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/不怕困难.gif\">",
-				"data": ":%(不怕困难)",
+				"data": ":#ffs(不怕困难)",
 				"text": "不怕困难"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/不要.gif\">",
-				"data": ":%(不要)",
+				"data": ":#ffs(不要)",
 				"text": "不要"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/擦汗.gif\">",
-				"data": ":%(擦汗)",
+				"data": ":#ffs(擦汗)",
 				"text": "擦汗"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/唱歌.gif\">",
-				"data": ":%(唱歌)",
+				"data": ":#ffs(唱歌)",
 				"text": "唱歌"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/吃饭.gif\">",
-				"data": ":%(吃饭)",
+				"data": ":#ffs(吃饭)",
 				"text": "吃饭"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/祝贺.gif\">",
-				"data": ":%(祝贺)",
+				"data": ":#ffs(祝贺)",
 				"text": "祝贺"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/吃瓜.gif\">",
-				"data": ":%(吃瓜)",
+				"data": ":#ffs(吃瓜)",
 				"text": "吃瓜"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/找打.gif\">",
-				"data": ":%(找打)",
+				"data": ":#ffs(找打)",
 				"text": "找打"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/冲啊.gif\">",
-				"data": ":%(冲啊)",
+				"data": ":#ffs(冲啊)",
 				"text": "冲啊"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/臭宝在吗.gif\">",
-				"data": ":%(臭宝在吗)",
+				"data": ":#ffs(臭宝在吗)",
 				"text": "臭宝在吗"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/打住.gif\">",
-				"data": ":%(打住)",
+				"data": ":#ffs(打住)",
 				"text": "打住"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/洞察汗.gif\">",
-				"data": ":%(洞察)",
+				"data": ":#ffs(洞察)",
 				"text": "洞察"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/对视.gif\">",
-				"data": ":%(对视)",
+				"data": ":#ffs(对视)",
 				"text": "对视"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/恶魔.gif\">",
-				"data": ":%(恶魔)",
+				"data": ":#ffs(恶魔)",
 				"text": "恶魔"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/发怒.gif\">",
-				"data": ":%(发怒)",
+				"data": ":#ffs(发怒)",
 				"text": "发怒"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/尴尬了.gif\">",
-				"data": ":%(尴尬了)",
+				"data": ":#ffs(尴尬了)",
 				"text": "尴尬了"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/干一架.gif\">",
-				"data": ":%(干一架)",
+				"data": ":#ffs(干一架)",
 				"text": "干一架"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/格局小啦.gif\">",
-				"data": ":%(格局小啦)",
+				"data": ":#ffs(格局小啦)",
 				"text": "格局小啦"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/疑问.gif\">",
-				"data": ":%(疑问)",
+				"data": ":#ffs(疑问)",
 				"text": "疑问"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/鬼混.gif\">",
-				"data": ":%(鬼混)",
+				"data": ":#ffs(鬼混)",
 				"text": "鬼混"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/滚.gif\">",
-				"data": ":%(滚)",
+				"data": ":#ffs(滚)",
 				"text": "滚"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/哈.gif\">",
-				"data": ":%(哈)",
+				"data": ":#ffs(哈)",
 				"text": "哈"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/哈哈哈.gif\">",
-				"data": ":%(哈哈哈)",
+				"data": ":#ffs(哈哈哈)",
 				"text": "哈哈哈"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/哭泣.gif\">",
-				"data": ":%(哭泣)",
+				"data": ":#ffs(哭泣)",
 				"text": "哭泣"
 			},
 			{
@@ -620,162 +620,162 @@
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/喝茶先.gif\">",
-				"data": ":%(喝茶先)",
+				"data": ":#ffs(喝茶先)",
 				"text": "喝茶先"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/喝茶先.gif\">",
-				"data": ":%(喝茶先)",
+				"data": ":#ffs(喝茶先)",
 				"text": "喝茶先"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/喝奶茶.gif\">",
-				"data": ":%(喝奶茶)",
+				"data": ":#ffs(喝奶茶)",
 				"text": "喝奶茶"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/火大.gif\">",
-				"data": ":%(火大)",
+				"data": ":#ffs(火大)",
 				"text": "火大"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/酷.gif\">",
-				"data": ":%(酷)",
+				"data": ":#ffs(酷)",
 				"text": "酷"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/酷boy.gif\">",
-				"data": ":%(酷boy)",
+				"data": ":#ffs(酷boy)",
 				"text": "酷boy"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/快乐.gif\">",
-				"data": ":%(快乐)",
+				"data": ":#ffs(快乐)",
 				"text": "快乐"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/累.gif\">",
-				"data": ":%(累)",
+				"data": ":#ffs(累)",
 				"text": "累"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/满足.gif\">",
-				"data": ":%(满足)",
+				"data": ":#ffs(满足)",
 				"text": "满足"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/拿来吧你.gif\">",
-				"data": ":%(拿来吧你)",
+				"data": ":#ffs(拿来吧你)",
 				"text": "拿来吧你"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/你礼貌吗.gif\">",
-				"data": ":%(你礼貌吗)",
+				"data": ":#ffs(你礼貌吗)",
 				"text": "你礼貌吗"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/朴实.gif\">",
-				"data": ":%(朴实)",
+				"data": ":#ffs(朴实)",
 				"text": "朴实"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/气哭.gif\">",
-				"data": ":%(气哭)",
+				"data": ":#ffs(气哭)",
 				"text": "气哭"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/让人下头.gif\">",
-				"data": ":%(让人下头)",
+				"data": ":#ffs(让人下头)",
 				"text": "让人下头"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/杀马特.gif\">",
-				"data": ":%(杀马特)",
+				"data": ":#ffs(杀马特)",
 				"text": "杀马特"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/生活警告.gif\">",
-				"data": ":%(生活警告)",
+				"data": ":#ffs(生活警告)",
 				"text": "生活警告"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/生气.gif\">",
-				"data": ":%(生气)",
+				"data": ":#ffs(生气)",
 				"text": "生气"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/叹气.gif\">",
-				"data": ":%(叹气)",
+				"data": ":#ffs(叹气)",
 				"text": "叹气"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/偷看.gif\">",
-				"data": ":%(偷看)",
+				"data": ":#ffs(偷看)",
 				"text": "偷看"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/退骚针.gif\">",
-				"data": ":%(退骚针)",
+				"data": ":#ffs(退骚针)",
 				"text": "退骚针"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/头秃.gif\">",
-				"data": ":%(头秃)",
+				"data": ":#ffs(头秃)",
 				"text": "头秃"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/哇.gif\">",
-				"data": ":%(哇)",
+				"data": ":#ffs(哇)",
 				"text": "哇"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/我不.gif\">",
-				"data": ":%(我不)",
+				"data": ":#ffs(我不)",
 				"text": "我不"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/小丑.gif\">",
-				"data": ":%(小丑)",
+				"data": ":#ffs(小丑)",
 				"text": "小丑"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/小声哭.gif\">",
-				"data": ":%(小声哭)",
+				"data": ":#ffs(小声哭)",
 				"text": "小声哭"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/偷偷看.gif\">",
-				"data": ":%(偷偷看)",
+				"data": ":#ffs(偷偷看)",
 				"text": "偷偷看"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/心动.gif\">",
-				"data": ":%(心动)",
+				"data": ":#ffs(心动)",
 				"text": "心动"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/学习.gif\">",
-				"data": ":%(学习)",
+				"data": ":#ffs(学习)",
 				"text": "学习"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/永远的神.gif\">",
-				"data": ":%(永远的神)",
+				"data": ":#ffs(永远的神)",
 				"text": "永远的神"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/又乖又怂.gif\">",
-				"data": ":%(又乖又怂)",
+				"data": ":#ffs(又乖又怂)",
 				"text": "又乖又怂"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/运动.gif\">",
-				"data": ":%(运动)",
+				"data": ":#ffs(运动)",
 				"text": "运动"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/赞.gif\">",
-				"data": ":%(赞)",
+				"data": ":#ffs(赞)",
 				"text": "赞"
 			}
 	]
