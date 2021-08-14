@@ -777,12 +777,9 @@
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/赞.gif\">",
 				"data": ":%(赞)",
 				"text": "赞"
-			},
-			
-		]
+			}
+	]
 	},
-	
-	
 	
 	"蛆音娘": {
 		"type": "image",
@@ -1510,5 +1507,5 @@
 				"text": "灯泡"
 			}
 		]
-	},
+	}
 }
