@@ -584,11 +584,6 @@
 				"text": "格局小啦"
 			},
 			{
-				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/疑问.gif\">",
-				"data": ":#ffs(疑问)",
-				"text": "疑问"
-			},
-			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/鬼混.gif\">",
 				"data": ":#ffs(鬼混)",
 				"text": "鬼混"
