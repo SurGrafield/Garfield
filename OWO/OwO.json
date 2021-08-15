@@ -549,7 +549,7 @@
 				"text": "打住"
 			},
 			{
-				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/洞察汗.gif\">",
+				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/洞察.gif\">",
 				"data": ":#ffs(洞察)",
 				"text": "洞察"
 			},
@@ -607,11 +607,6 @@
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/哈哈哈.gif\">",
 				"data": ":#ffs(哈哈哈)",
 				"text": "哈哈哈"
-			},
-			{
-				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/哭泣.gif\">",
-				"data": ":#ffs(哭泣)",
-				"text": "哭泣"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/害.gif\">",
@@ -719,11 +714,6 @@
 				"text": "退骚针"
 			},
 			{
-				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/头秃.gif\">",
-				"data": ":#ffs(头秃)",
-				"text": "头秃"
-			},
-			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/哇.gif\">",
 				"data": ":#ffs(哇)",
 				"text": "哇"
@@ -742,11 +732,6 @@
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/小声哭.gif\">",
 				"data": ":#ffs(小声哭)",
 				"text": "小声哭"
-			},
-			{
-				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/偷偷看.gif\">",
-				"data": ":#ffs(偷偷看)",
-				"text": "偷偷看"
 			},
 			{
 				"icon": "<img class=\"biaoqing feifeisha\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/feifeisha/心动.gif\">",
