@@ -456,6 +456,37 @@
 				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/滑稽柠檬.png\">",
 				"data": ":#(滑稽柠檬)",
 				"text": "滑稽柠檬"
+			},
+					  {
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/胡子.png\">",
+				"data": ":#(胡子)",
+				"text": "胡子"
+			},
+					  {
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/滑稽奶茶.png\">",
+				"data": ":#(滑稽奶茶)",
+				"text": "滑稽奶茶"
+			},
+					  {
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/智慧的眼神.png\">",
+				"data": ":#(智慧的眼神)",
+				"text": "智慧的眼神"
+			},
+					  {
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/斗鸡眼.png\">",
+				"data": ":#(斗鸡眼)",
+				"text": "斗鸡眼"
+			},
+			
+					  {
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/小偷.png\">",
+				"data": ":#(小偷)",
+				"text": "小偷"
+			},
+					  		  {
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/伞兵.png\">",
+				"data": ":#(伞兵)",
+				"text": "伞兵"
 			}
 		]
 	},
