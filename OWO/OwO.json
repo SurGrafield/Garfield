@@ -547,6 +547,46 @@
 				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/猪头.png\">",
 				"data": ":#(猪头)",
 				"text": "猪头"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/猪头意外.png\">",
+				"data": ":#(猪头意外)",
+				"text": "猪头意外"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/傻笑.png\">",
+				"data": ":#(傻笑)",
+				"text": "傻笑"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/惬意.png\">",
+				"data": ":#(惬意)",
+				"text": "惬意"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/没招.png\">",
+				"data": ":#(没招)",
+				"text": "没招"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/恶魔恐惧.png\">",
+				"data": ":#(恶魔恐惧)",
+				"text": "恶魔恐惧"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/恶魔.png\">",
+				"data": ":#(恶魔)",
+				"text": "恶魔"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/波吉.png\">",
+				"data": ":#(波吉)",
+				"text": "波吉"
+			},
+			{
+				"icon": "<img class=\"biaoqing Heo\" src=\"https://cdn.jsdelivr.net/gh/SurGrafield/Garfield@main/OWO/biaoqing/Heo/拜托.png\">",
+				"data": ":#(拜托)",
+				"text": "拜托"
 			}
 		]
 	},
